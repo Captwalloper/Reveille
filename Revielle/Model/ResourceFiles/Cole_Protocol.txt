@@ -1,0 +1,18 @@
+
+United Nations Space Command Emergency Priority Order 098831A-1
+Encryption Code: Red
+Public Key: file/ First light/
+From: UNSC/NAVCOM Fleet H.T. Ward
+To: ALL UNSC PERSONNEL
+Subject: General Order 098831A-1 ("The Cole Protocol")
+Classification: RESTRICTED (BGX Directive)
+
+The Cole Protocol
+To safeguard and protect the Inner Colonies and Earth, all UNSC vessels or stations must not be captured with intact navigation databases that may lead Covenant forces to human civilian population centers.
+If any Covenant forces are detected:
+1. Activate selective purge of databases on all ship-based and planetary data networks.
+2. Initiate triple-screen check to ensure all data has been erased and all backups neutralized.
+3. Execute viral data scavengers (Download from UNSCTTP://EPWW:COLEPROTOCOL/Virtualscav/fbr.091)
+4. If retreating from Covenant forces, all ships must enter Slipstream space with randomized vectors NOT directed toward Earth, the Inner Colonies, or any other human population center.[note 1]
+5. In case of imminent capture by Covenant forces and boarders, all UNSC ships MUST self-destruct.
+Violation of this directive will be considered an act of TREASON and pursuant to UNSC Military law articles JAG 845-P and JAG 7556-L, such violations are punishable by life imprisonment or execution.

@@ -14,8 +14,11 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# Windows shortcuts
-*.lnk
+# Visual Studio Chaff
+obj/
+bin/
+AppPackages/
+BundleArtifacts/
 
 # =========================
 # Operating System Files

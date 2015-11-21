@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="en-us" Name="CortanaCommandSet_en-us">
+    <CommandPrefix> Cortana </CommandPrefix>
+    <Example> Execute Cole Protocol </Example>
+    
+    <Command Name="execute">
+      <Example> Execute Cole Protocol  </Example>
+      <ListenFor> Execute {filename}  </ListenFor>
+      <Feedback> Executing {filename} </Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="youtube">
+      <Example> YouTube BatMan  </Example>
+      <ListenFor> YouTube {dictatedFindText} </ListenFor>
+      <Feedback> YouTubing {dictatedFindText} </Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="notepad">
+      <Example> Notepad BatMan  </Example>
+      <ListenFor> Notepad {dictatedFindText} </ListenFor>
+      <Feedback> Notepadding {dictatedFindText} </Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="toggle_listening">
+      <Example> Stop Listening  </Example>
+      <ListenFor> [Start] [Stop] [Toggle] Listening </ListenFor>
+      <Feedback> Toggling "Hey Cortana" Feature </Feedback>
+      <Navigate/>
+    </Command>
+
+    <PhraseList Label="filename">
+      <Item> Cole Protocol </Item>
+    </PhraseList>
+
+    <PhraseTopic Label="dictatedFindText" Scenario="Search">
+      <!--<Subject>  </Subject>-->
+    </PhraseTopic>
+
+  </CommandSet>
+
+</VoiceCommands>
